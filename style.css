@@ -1,0 +1,29 @@
+#wrapper{
+    display: flex;
+}
+/* Movie List Styling */
+#moviesList{
+    width: 25%;
+}
+.row{
+    display: flex;
+    margin: 20px 10px;
+}
+.imageContainer img{
+    width: 78px;
+}
+
+
+/* Movie Item Styling */
+#movieItem{
+    width: 75%;
+}
+
+
+.title{
+    margin: 30px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
